@@ -30,7 +30,6 @@ namespace Jayride_Website_Selenium_Tests
         {
             // close the browser
             _driver.Close();
-            Console.Write("test case ended ");
         }
 
         /// <summary>
